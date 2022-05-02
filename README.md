@@ -1,0 +1,2 @@
+# Mydatabot
+Bachelor thesis
