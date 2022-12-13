@@ -1,3 +1,4 @@
+import rdflib
 
 class Resource():
     """
@@ -7,6 +8,9 @@ class Resource():
     """
     def __init__(self, iri: str):
         self.iri = iri
+
+    def Node(self):
+        return rdflib.BNode()
 
 class RdfResource(Resource):
     """
@@ -18,6 +22,9 @@ class RdfResource(Resource):
         super().__init__(iri)
         self.resources = []
 
+    def Node(self):
+        return rdflib.URIRef(self.iri)
+
 
 class NonRdfResource(Resource):
     """
@@ -25,10 +32,13 @@ class NonRdfResource(Resource):
 
     An LDPR whose state is not represented in RDF. For example, these can be binary or text documents that do not have useful RDF representations.
     """
-    def __init__(self, iri: str, data):
+    def __init__(self, iri: str, data: str):
         super().__init__(iri)
         self.data = data
+    
+    def Node(self):
+        return rdflib.Literal(self.data)
 
 if __name__ == "__main__":
-    testobject = Resource("iririr")
+    pass
 
