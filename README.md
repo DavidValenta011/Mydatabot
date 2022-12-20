@@ -1,6 +1,7 @@
 # Linked Data Platform for dataset management
 Bachelor thesis<br>
-Supervisor [Mgr. Petr Škoda, Ph.D.](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=7952)
+Author: David Valenta
+Supervisor: [Mgr. Petr Škoda, Ph.D.](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=7952)
 
 ## About
 [Linked Data Platform (LDP)](https://www.w3.org/TR/ldp/) is a standard describing set of HTTP operations that are capable of read/write of ([RDF](https://www.w3.org/RDF/)) data. The objective of this thesis is to explore usage of LDP to implement a data catalog. Catalog should be able to maintain metadata about datasets on the basis of the [DCAT](https://www.w3.org/TR/vocab-dcat-3/) specification.
