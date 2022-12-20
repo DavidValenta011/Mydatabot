@@ -1,5 +1,5 @@
 # Linked Data Platform pro správu datových sad
-Bachelor thesis
+Bachelor thesis<br>
 Supervisor [Mgr. Petr Škoda, Ph.D.](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=7952)
 
 ## About
@@ -8,6 +8,6 @@ Supervisor [Mgr. Petr Škoda, Ph.D.](https://www.mff.cuni.cz/cs/fakulta/organiza
 THe author will familiarize with relevant standards and describe some use cases of usage of the data catalog. Then on the basis of the use cases will design implementation of data catalog using the LDP. The author will also implement specification (or a relevant part) of the LDP with Python language and also implement POC proposed extension for data catalog needs.
 
 ## Sources
-https://www.w3.org/TR/ldp/
+https://www.w3.org/TR/ldp/<br>
 https://www.w3.org/TR/ldp-primer/
 
