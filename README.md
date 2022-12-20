@@ -1,4 +1,4 @@
-# Linked Data Platform pro správu datových sad
+# Linked Data Platform for dataset management
 Bachelor thesis<br>
 Supervisor [Mgr. Petr Škoda, Ph.D.](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=7952)
 
@@ -9,5 +9,4 @@ THe author will familiarize with relevant standards and describe some use cases 
 
 ## Sources
 https://www.w3.org/TR/ldp/<br>
-https://www.w3.org/TR/ldp-primer/
-
+https://www.w3.org/TR/ldp-primer/<br>
