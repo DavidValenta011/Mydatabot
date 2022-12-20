@@ -38,7 +38,3 @@ class NonRdfResource(Resource):
     
     def Node(self):
         return rdflib.Literal(self.data)
-
-if __name__ == "__main__":
-    pass
-

@@ -57,8 +57,3 @@ class IndirectContainer(Container):
     """
     def __init__(self, iri: str):
         super().__init__(iri)
-
-if __name__ == "__main__":
-    pass
-
-
