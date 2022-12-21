@@ -11,3 +11,5 @@ THe author will familiarize with relevant standards and describe some use cases 
 ## Sources
 https://www.w3.org/TR/ldp/<br>
 https://www.w3.org/TR/ldp-primer/<br>
+https://www.w3.org/2012/ldp/hg/tests/reports/ldp.html<br>
+https://www.w3.org/wiki/LDP_Implementations<br>
