@@ -1,6 +1,6 @@
 # Linked Data Platform for dataset management
 Bachelor thesis<br>
-Author: David Valenta
+Author: David Valenta<br>
 Supervisor: [Mgr. Petr Škoda, Ph.D.](https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=7952)
 
 ## About
